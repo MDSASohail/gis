@@ -1,0 +1,29 @@
+.navHead
+{
+  
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  background-color: #FEB249;
+  margin: 0px;
+  /* border: 2px solid red; */
+  
+}
+
+.marginn
+{
+    margin: 10px 35px;
+    cursor: pointer;
+    transition: font-size 0.5s;
+    text-decoration: none;
+}
+
+.marginn:hover
+{
+  font-size: x-large;
+}
+
+.none{
+  text-decoration: none;
+  color: #002447;
+}
