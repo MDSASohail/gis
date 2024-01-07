@@ -1,4 +1,4 @@
-import Novbar from "../Components/Navbar";
+import Navbar from "../Components/Navbar";
 import Project from "../Components/Project";
 import Members from "../Components/Members";
 import {BrowserRouter as Router, Route, Routes, Link} from 'react-router-dom'
@@ -7,11 +7,13 @@ const Home=()=>{
     return(
         <>
             <div >
-                <Router>
+            
+            
+                {/* <Router>
 
                  
                 
-                   <Novbar/>
+                <Navbar/>
                    <Routes>
                      <Route path="/member" element={<Members/>}/>
                      <Route path="/" element={<Project/>}/>
@@ -20,7 +22,8 @@ const Home=()=>{
                    
 
 
-                   </Router>
+                   </Router> */}
+                   <Navbar/>
             </div>
         </>
     )

@@ -40,7 +40,7 @@ function EachMember({eachm})
               <div className="imgDiv">
                 <img style={{width:"100%"}} src={eachm.img}></img>
               </div>
-              <div class="dataDiv">
+              <div class="datanpm reun dep-ployDiv">
                   <p className="textt"><strong>Name</strong> :{eachm.name}</p>
                   <p className="textt"><strong>University Roll No.</strong> : {eachm.roll}</p>
                   <p className="textt"><strong>Registration No.</strong> : {eachm.reNo}</p>
