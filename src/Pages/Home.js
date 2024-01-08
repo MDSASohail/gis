@@ -9,7 +9,7 @@ const Home=()=>{
             <div >
             
             
-                {/* <Router>
+                <Router>
 
                  
                 
@@ -22,8 +22,8 @@ const Home=()=>{
                    
 
 
-                   </Router> */}
-                   <Navbar/>
+                   </Router>
+                   
             </div>
         </>
     )
