@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gis/static/css/main.4f0647ec.css",
-    "main.js": "/gis/static/js/main.b60d5e8d.js",
+    "main.js": "/gis/static/js/main.ea6cf040.js",
     "static/js/787.e472b688.chunk.js": "/gis/static/js/787.e472b688.chunk.js",
     "static/media/Vidhan.jpeg": "/gis/static/media/Vidhan.52fa0a6dcc5af63b22c2.jpeg",
     "static/media/Sonali.jpeg": "/gis/static/media/Sonali.061a2a8544eda8ac6859.jpeg",
@@ -10,11 +10,11 @@
     "static/media/Arbaz.jpeg": "/gis/static/media/Arbaz.d9b0167b904d19741502.jpeg",
     "index.html": "/gis/index.html",
     "main.4f0647ec.css.map": "/gis/static/css/main.4f0647ec.css.map",
-    "main.b60d5e8d.js.map": "/gis/static/js/main.b60d5e8d.js.map",
+    "main.ea6cf040.js.map": "/gis/static/js/main.ea6cf040.js.map",
     "787.e472b688.chunk.js.map": "/gis/static/js/787.e472b688.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f0647ec.css",
-    "static/js/main.b60d5e8d.js"
+    "static/js/main.ea6cf040.js"
   ]
 }
