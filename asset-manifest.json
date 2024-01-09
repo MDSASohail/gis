@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gis/static/css/main.4f0647ec.css",
-    "main.js": "/gis/static/js/main.ea6cf040.js",
+    "main.css": "/gis/static/css/main.bc8cf6b0.css",
+    "main.js": "/gis/static/js/main.bbdd781b.js",
     "static/js/787.e472b688.chunk.js": "/gis/static/js/787.e472b688.chunk.js",
     "static/media/Vidhan.jpeg": "/gis/static/media/Vidhan.52fa0a6dcc5af63b22c2.jpeg",
     "static/media/Sonali.jpeg": "/gis/static/media/Sonali.061a2a8544eda8ac6859.jpeg",
@@ -9,12 +9,12 @@
     "static/media/Dristi.jpeg": "/gis/static/media/Dristi.9e1238f254c6b553231c.jpeg",
     "static/media/Arbaz.jpeg": "/gis/static/media/Arbaz.d9b0167b904d19741502.jpeg",
     "index.html": "/gis/index.html",
-    "main.4f0647ec.css.map": "/gis/static/css/main.4f0647ec.css.map",
-    "main.ea6cf040.js.map": "/gis/static/js/main.ea6cf040.js.map",
+    "main.bc8cf6b0.css.map": "/gis/static/css/main.bc8cf6b0.css.map",
+    "main.bbdd781b.js.map": "/gis/static/js/main.bbdd781b.js.map",
     "787.e472b688.chunk.js.map": "/gis/static/js/787.e472b688.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f0647ec.css",
-    "static/js/main.ea6cf040.js"
+    "static/css/main.bc8cf6b0.css",
+    "static/js/main.bbdd781b.js"
   ]
 }
